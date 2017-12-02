@@ -1,0 +1,37 @@
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\bin\Debug\elektronikNapajalnik.exe
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\bin\Debug\elektronikNapajalnik.pdb
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.Form1.resources
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.Properties.Resources.resources
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.exe
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.pdb
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\Luka\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.csproj.ResolveComReference.cache
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.csproj.ResolveComReference.cache
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.exe
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.pdb
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\bin\Debug\elektronikNapajalnik.exe
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\bin\Debug\elektronikNapajalnik.pdb
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.Form1.resources
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.Properties.Resources.resources
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Luka Penger\Desktop\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Interop.VBIDE.dll
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.csproj.ResolveComReference.cache
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.Form1.resources
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.Properties.Resources.resources
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\elektronikNapajalnik\elektronikNapajalnik\bin\Debug\Elektronik.si napajalnik.exe
+H:\elektronikNapajalnik\elektronikNapajalnik\bin\Debug\Elektronik.si napajalnik.pdb
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Elektronik.si napajalnik.exe
+H:\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Elektronik.si napajalnik.pdb
+G:\Visual\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Interop.VBIDE.dll
+G:\Visual\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\elektronikNapajalnik.csproj.ResolveComReference.cache
+G:\Visual\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Elektronik.si napajalnik.exe
+G:\Visual\elektronikNapajalnik\elektronikNapajalnik\obj\x86\Debug\Elektronik.si napajalnik.pdb
